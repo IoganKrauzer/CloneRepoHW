@@ -1,5 +1,5 @@
 # CloneRepoHW
 
-Home Work 2 (FIRST COMMIT)
+Home Work 2 (SECOND COMMIT)
 
 
