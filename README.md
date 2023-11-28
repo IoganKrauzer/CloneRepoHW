@@ -1,3 +1,5 @@
-Home Work 2
-
-
+# CloneRepoHW
+hello homework
+create conflict
+# NewRepoForHomeWork
+Creating conflict
