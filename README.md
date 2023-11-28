@@ -1,5 +1,3 @@
-# CloneRepoHW
-hello homework
-create conflict
-# NewRepoForHomeWork
-Creating conflict
+Home Work 2
+
+first commit
